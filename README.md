@@ -208,7 +208,7 @@ In **each region**:
 * Validate read/write behavior across regions.
 
 
-###  **10. (Optional) CI/CD**
+###  **10.  CI/CD**
 
 * Use **GitHub Actions**, **CodePipeline**, or similar to automate:
 
